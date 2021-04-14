@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-__author__ = "YU CHU DENG"
+__author__ = "Powen Ko, www.powenko.com"
 
 import sys
 import time
@@ -30,7 +30,6 @@ from http.server import SimpleHTTPRequestHandler as RequestHandler
 from urllib.parse import urlparse,unquote
 import subprocess
 
-print("ver1")
 class MyHandler(RequestHandler):
     def do_GET(self):
         self.send_response(200)
