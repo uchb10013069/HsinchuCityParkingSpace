@@ -1,6 +1,8 @@
 # -*- coding: UTF-8 -*-
 __author__ = "YU CHU DENG"
 
+#阿貝 到此一遊
+
 import sys
 import time
 """
