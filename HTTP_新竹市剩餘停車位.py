@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-__author__ = "Powen Ko, www.powenko.com"
+__author__ = "YU CHU DENG"
 
 import sys
 import time
